@@ -2,7 +2,7 @@
 
 # Imad Azizi
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1600&color=0EA5E9&center=true&vCenter=true&width=600&lines=M.Sc.+Computer+Science+%40+University+of+Bonn;Software+Engineer+%40+adesso+SE;Building+Jarvis%2C+my+own+AI+agent;2nd+place+at+the+FES+Hackathon+Frankfurt;Open+to+internships+from+October+2027" alt="M.Sc. Computer Science @ University of Bonn. Software Engineer @ adesso SE. Building Jarvis, my own AI agent. 2nd place at the FES Hackathon Frankfurt. Open to internships from October 2027." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1600&color=0EA5E9&center=true&vCenter=true&width=600&lines=M.Sc.+Computer+Science+%40+University+of+Bonn;Software+Engineer+%40+adesso+SE;Building+Jarvis%2C+my+own+AI+agent;2nd+place+at+the+FES+Hackathon+Frankfurt;Open+to+internships+from+October+2027" alt="M.Sc. Computer Science @ University of Bonn. Software Engineer @ adesso SE. I like Hackathons. Building Jarvis, my own AI agent. 2nd place at the FES Hackathon Frankfurt. Open to internships from October 2027." />
 
 [![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=0EA5E9)](https://portfolio-imad-azizi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBFQTVFOSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNOSAyLjVoNkEyIDIgMCAwIDEgMTcgNC41VjZoM2EyIDIgMCAwIDEgMiAydjRIMlY4YTIgMiAwIDAgMSAyLTJoM1Y0LjVhMiAyIDAgMCAxIDItMnptMCAyVjZoNlY0LjV6TTIgMTMuNWg4LjV2MWExLjUgMS41IDAgMCAwIDMgMHYtMUgyMlYxOWEyIDIgMCAwIDEtMiAySDRhMiAyIDAgMCAxLTItMnoiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/imad-azizi-493279310/)
@@ -16,11 +16,11 @@
 >>> imad.about()
 ```
 
-I build things end to end, from training language models on a GPU cluster to apps that run on an iPhone.
+I’m Imad, a full-stack developer, AI engineer, and AI enthusiast. I'm passionate about building the tech of tomorrow.
 
-- Grade 1.2 in my master's, nominated for an exchange semester at The University of Tokyo in 2027
-- Mostly working on LLMs, AI agents and on-device ML
+- M.Sc. Computer Science at the University of Bonn (GPA 3.9/4.0). Graduating October 2028.
 - Scholar of the Avicenna-Studienwerk and e-fellows.net
+- Open to 2027 or 2028 internships
 
 <br>
 
